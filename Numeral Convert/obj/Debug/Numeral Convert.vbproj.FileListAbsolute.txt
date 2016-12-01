@@ -1,0 +1,9 @@
+c:\users\neil\documents\visual studio 2012\Projects\Numeral Convert\Numeral Convert\bin\Debug\Numeral Convert.exe.config
+c:\users\neil\documents\visual studio 2012\Projects\Numeral Convert\Numeral Convert\bin\Debug\Numeral Convert.exe
+c:\users\neil\documents\visual studio 2012\Projects\Numeral Convert\Numeral Convert\bin\Debug\Numeral Convert.pdb
+c:\users\neil\documents\visual studio 2012\Projects\Numeral Convert\Numeral Convert\bin\Debug\Numeral Convert.xml
+c:\users\neil\documents\visual studio 2012\Projects\Numeral Convert\Numeral Convert\obj\Debug\Numeral_Convert.Resources.resources
+c:\users\neil\documents\visual studio 2012\Projects\Numeral Convert\Numeral Convert\obj\Debug\Numeral Convert.vbproj.GenerateResource.Cache
+c:\users\neil\documents\visual studio 2012\Projects\Numeral Convert\Numeral Convert\obj\Debug\Numeral Convert.exe
+c:\users\neil\documents\visual studio 2012\Projects\Numeral Convert\Numeral Convert\obj\Debug\Numeral Convert.xml
+c:\users\neil\documents\visual studio 2012\Projects\Numeral Convert\Numeral Convert\obj\Debug\Numeral Convert.pdb
